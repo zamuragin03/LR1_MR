@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module",
+  "scripts": {
+    "check": "node src/cli.js",
+    "start": "node bin/main.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.30.0"
+  }
+}
