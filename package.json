@@ -4,7 +4,6 @@
   },
   "type": "module",
   "scripts": {
-    "check": "node src/cli.js",
     "start": "node bin/main.js"
   },
   "devDependencies": {
